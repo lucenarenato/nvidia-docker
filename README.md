@@ -1,5 +1,8 @@
 # NVIDIA Container Toolkit
 
+## Informação - PT-BR
+O NVIDIA Container Toolkit permite que os usuários criem e executem contêineres Docker acelerados por GPU. O kit de ferramentas inclui uma biblioteca de tempo de execução do contêiner e utilitários para configurar automaticamente os contêineres para alavancar as GPUs NVIDIA. Documentação completa e perguntas freqüentes estão disponíveis no wiki do repositório.
+
 [![GitHub license](https://img.shields.io/github/license/NVIDIA/nvidia-docker?style=flat-square)](https://raw.githubusercontent.com/NVIDIA/nvidia-docker/master/LICENSE)
 [![Documentation](https://img.shields.io/badge/documentation-wiki-blue.svg?style=flat-square)](https://github.com/NVIDIA/nvidia-docker/wiki)
 [![Package repository](https://img.shields.io/badge/packages-repository-b956e8.svg?style=flat-square)](https://nvidia.github.io/nvidia-docker)
@@ -148,3 +151,4 @@ Note that in the future, nvidia-docker2 packages will no longer be supported.
 
 * Please let us know by [filing a new issue](https://github.com/NVIDIA/nvidia-docker/issues/new)
 * You can contribute by opening a [pull request](https://help.github.com/articles/using-pull-requests/)
+- Renato Lucena 2019
